@@ -2,11 +2,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300");
 
-/*
-	Identity by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 /* Reset */
 
@@ -546,7 +541,8 @@
 					}
 
 					ul.icons li a:hover:before {
-						text-shadow: 1.25px 0px 0px #ff7496, -1.25px 0px 0px #ff7496, 0px 1.25px 0px #ff7496, 0px -1.25px 0px #ff7496;
+						color: #000051;
+						text-shadow: 1.25px 0px 0px #d3d3d3, -1.25px 0px 0px #d3d3d3, 0px 1.25px 0px #d3d3d3, 0px -1.25px 0px #d3d3d3;
 					}
 
 					ul.icons li a:before {
@@ -562,7 +558,7 @@
 					}
 
 					ul.icons li a:hover {
-						border-color: #ff7496;
+						border-color: #d3d3d3;
 					}
 
 			@media screen and (max-width: 480px) {
